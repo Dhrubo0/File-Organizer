@@ -1,0 +1,1 @@
+When you run this program and specify a directory it organizes the files in the folder according to their file extension.<br> For example creating a folder names "pdf" and putting every pdf file in that folder
